@@ -1,0 +1,7 @@
+com\sgp\sgp_api\controller\AuthController.class
+com\sgp\sgp_api\controller\TarefaController.class
+com\sgp\sgp_api\model\Tarefa.class
+com\sgp\sgp_api\repository\TarefaRepository.class
+com\sgp\sgp_api\repository\UsuarioRepository.class
+com\sgp\sgp_api\SgpApiApplication.class
+com\sgp\sgp_api\model\Usuario.class
